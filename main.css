@@ -1,0 +1,28 @@
+.wrapper{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+
+.rectangle{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+}
+
+.circle{
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
